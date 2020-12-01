@@ -1,4 +1,3 @@
-''''
 # Creating Class and Object in Python
 class myBird:
     def __int__(self):
@@ -55,7 +54,6 @@ pg1 = myPenguin()
 pg1.whoisThis()
 pg1.canSwim()
 pg1.canRun()
-'''
 
 # Data Encapsulation
 class personalComptuer:
