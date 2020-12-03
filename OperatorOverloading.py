@@ -60,7 +60,7 @@ Bitwise XOR	         p1 ^ p2	p1.__xor__(p2)
 Bitwise NOT	         ~p1	    p1.__invert__()
 """
 
-# Example 2
+# Example 3
 # overloading the less than operator
 class Point:
     def __init__(self, x = 0, y = 0):
