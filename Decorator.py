@@ -15,7 +15,7 @@ def simple_func():
 # decor()
 
 # simple_func()
-
+#-----------------------------------------------------
 # Another example:
 def my_smart_div(func):
     def inner_func(x,y):
@@ -35,6 +35,7 @@ def go_divide(a, b):
 print(go_divide(20, 2))
 print(go_divide(20, 0))
 
+#---------------------------------------------------------
 # Example:
 def star(func):
     def inner(*args, **kwargs):
